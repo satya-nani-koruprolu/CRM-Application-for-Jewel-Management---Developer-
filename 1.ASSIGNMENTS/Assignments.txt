@@ -1,0 +1,4 @@
+Assignments: 
+    Team Lead(Sola Gopichandu) - Salesforce, Object, Tabs, The Lightning     	App, Fields ,Profiles, Roles, Users, Page Layouts
+    Team Member1(Satya Nani Koruprolu) - Record Types, Permission Sets, 	Trigger, User Adoption
+    Team Member3(Y Anil Kumar) - Permission Sets, Reports, 	Dashboards, Flows
